@@ -1,0 +1,33 @@
+.img-wrapper {
+	width: 100%;
+	height: 70vh;
+	overflow: hidden;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/*.img-wrapper img {
+	height: 100%;
+}*/
+
+/*.repimg {
+	background-repeat: repeat-x;
+	background-image: url("../img/foulweather-bluff.jpg");
+	background-size: cover;
+	height: 100%;
+	width: 100%;
+}*/
+
+.top-section {
+	height: 10vh;
+	overflow: hidden;
+}
+
+.footer {
+	height: 10vh;
+	overflow: hidden;
+}
+
+/*#mainview {
+	width: 1080px;
+}*/

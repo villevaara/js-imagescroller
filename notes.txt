@@ -1,0 +1,12 @@
+https://www.codecademy.com/courses/learn-javascript/lessons/javascript-dom/exercises/link-javascript?action=lesson_resume
+
+jQuery panning:
+https://stackoverflow.com/questions/8027779/how-can-i-pan-an-image-larger-than-its-container-correctly-using-jquery
+http://jsfiddle.net/CqcHD/2/
+
+http://usefulangle.com/post/1/jquery-dragging-image-within-div
+
+http://jqueryui.com/draggable/#constrain-movement
+
+infinite scrolling:
+https://stackoverflow.com/questions/20263954/make-a-bitmap-wrap-around-the-canvas-for-infinite-scrolling
